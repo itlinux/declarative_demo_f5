@@ -1,6 +1,11 @@
 ## Description
 This is an example of deploying F5s Declarative Onboarding (DO) and Application Services 3 (AS3) Extensions via Ansible to provision a BIG-IP in a declarative manner.
 
+## NOTE: In order to run this playbook from a Mac (OSX) you must install the RPM pkg. Simple with brew
+``` 
+brew install rpm
+```
+
 
 #### Output
 High level playbook flow:
